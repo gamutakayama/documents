@@ -32,6 +32,10 @@ html {
   :root {
     --vp-home-hero-image-filter: blur(56px);
   }
+
+  .VPDocFooter .edit-info {
+    justify-content: end;
+  }
 }
 
 @media (min-width: 960px) {

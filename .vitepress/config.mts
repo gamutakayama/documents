@@ -79,6 +79,16 @@ export default defineConfig({
         collapsed: true,
       },
     ],
+    lastUpdated: {
+      text: "最后更新于",
+      formatOptions: {
+        year: "numeric",
+        month: "2-digit",
+        day: "2-digit",
+        hour: "2-digit",
+        minute: "2-digit",
+      },
+    },
     docFooter: { prev: "上一页", next: "下一页" },
     darkModeSwitchLabel: "主题",
     lightModeSwitchTitle: "切换到浅色模式",
@@ -95,6 +105,7 @@ export default defineConfig({
       linkText: "带我回首页",
     },
   },
+  lastUpdated: true,
   markdown: {
     image: {
       lazyLoading: true,

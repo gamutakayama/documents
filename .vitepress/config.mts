@@ -45,7 +45,7 @@ export default defineConfig({
       {
         text: "动画",
         items: [
-          { text: "索引", link: "/anime/" },
+          { text: "目录", link: "/anime/" },
           { text: "名侦探柯南", link: "/anime/detective-conan" },
           { text: "魔术快斗", link: "/anime/magic-kaito" },
           { text: "加速世界", link: "/anime/accel-world" },
@@ -55,7 +55,7 @@ export default defineConfig({
       {
         text: "电视剧",
         items: [
-          { text: "索引", link: "/tv/" },
+          { text: "目录", link: "/tv/" },
           { text: "名侦探柯南", link: "/tv/detective-conan" },
         ],
         collapsed: true,
@@ -63,7 +63,7 @@ export default defineConfig({
       {
         text: "教程",
         items: [
-          { text: "索引", link: "/tutorial/" },
+          { text: "目录", link: "/tutorial/" },
           { text: "Caddy", link: "/tutorial/caddy" },
           { text: "Linux", link: "/tutorial/linux" },
           { text: "Rclone", link: "/tutorial/rclone" },
@@ -73,7 +73,7 @@ export default defineConfig({
       {
         text: "其他",
         items: [
-          { text: "索引", link: "/other/" },
+          { text: "目录", link: "/other/" },
           { text: "摘抄", link: "/other/excerpts" },
         ],
         collapsed: true,

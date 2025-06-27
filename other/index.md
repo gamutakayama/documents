@@ -5,6 +5,6 @@ outline: false
 
 # 其他
 
-## 索引
+## 目录
 
 - [摘抄](excerpts.md)

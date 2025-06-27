@@ -5,7 +5,7 @@ outline: false
 
 # 教程
 
-## 索引
+## 目录
 
 - [Caddy](caddy.md)
 - [Linux](linux.md)

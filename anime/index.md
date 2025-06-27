@@ -5,7 +5,7 @@ outline: false
 
 # 动画
 
-## 索引
+## 目录
 
 - [名侦探柯南](detective-conan.md)
 - [魔术快斗](magic-kaito.md)

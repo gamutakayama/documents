@@ -13,7 +13,7 @@ export default defineConfig({
   ],
   themeConfig: {
     logo: "/images/favicon.svg",
-    outline: { label: "页面导航", level: "deep" },
+    outline: { level: "deep", label: "页面导航" },
     nav: [
       { text: "首页", link: "/" },
       {
@@ -106,9 +106,5 @@ export default defineConfig({
     },
   },
   lastUpdated: true,
-  markdown: {
-    image: {
-      lazyLoading: true,
-    },
-  },
+  markdown: { image: { lazyLoading: true } },
 });
